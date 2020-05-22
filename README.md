@@ -1,4 +1,4 @@
-# Diagnosing-Breast-Cancer-using-Machine-Learning
+# Breast Cancer Analysis
 
 This repository contains the ipython notebook and helper scripts for a research project about machine learning.
 
